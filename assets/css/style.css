@@ -50,13 +50,19 @@ p {
     font-size: 16px;
 }
 
-.hero {
+hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     /* Removed image source and attached to html */
     background-size: cover;
     background-position: center;
+}
+
+main{
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
@@ -67,12 +73,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
