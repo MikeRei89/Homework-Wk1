@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-(assets/01-html-css-git-homework-demo.png)
+![Alt text](assets/01-html-css-git-homework-demo.png)
 
 ## Delpoyed Site Link:
 
