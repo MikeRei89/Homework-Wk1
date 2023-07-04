@@ -11,15 +11,15 @@ The Marketing Agency wanted two things for their site:
 ## Acceptance Criteria
 
 ```
-1. Webpagbe must meet accessibility standards
-    Code source shows the accesibility standards 
-2. Input Semantic HTML Elements within code
-    The structure of the HTML elements are understanable and organized
+1. Webpage must meet accessibility standards
+    The code source must show the accessibility standards 
+2. Input Semantic HTML Elements within the code
+    The structure of the HTML elements must be understandable and organized
 3. The elements must follow a logical structure independent of styling and positioning
     I should be able to view the icon and image elements
-4. Accessible alt attributes are added to the code and commited to the site
-   When viewing the heading attributes they are recognizable 
-5. Code and Final deloyment of site fall in sequential order
+4. Accessible alt attributes are added to the code and committed to the site
+    When viewing the heading attributes, they should be recognizable 
+5. The code and final deployment of the site should fall in sequential order
     The title element should be recognizable as well as concise and descriptive
 
 ```
