@@ -3,25 +3,25 @@
 ## User Story
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+The Marketing Agency wanted two things for their site:
+    - They wanted a codebase that follows accessibility standards
+    - Making the site optimized for search engines
 ```
 
 ## Acceptance Criteria
 
 ```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+1. Webpagbe must meet accessibility standards
+    Code source shows the accesibility standards 
+2. Input Semantic HTML Elements within code
+    The structure of the HTML elements are understanable and organized
+3. The elements must follow a logical structure independent of styling and positioning
+    I should be able to view the icon and image elements
+4. Accessible alt attributes are added to the code and commited to the site
+   When viewing the heading attributes they are recognizable 
+5. Code and Final deloyment of site fall in sequential order
+    The title element should be recognizable as well as concise and descriptive
+
 ```
 
 ## Mock-Up
