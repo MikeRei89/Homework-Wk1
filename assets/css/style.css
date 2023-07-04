@@ -58,7 +58,7 @@ img {
     background-size: cover;
     background-position: center;
 }
-/* Reissued original code for DIV due to picture stretching issue */
+/* Changed div to img source */
 
 main{
     width: 75%;
